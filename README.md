@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Jhon Erick Ramirez Leaños</h1>
 <h3 align="center">Soy Estudiante de la carrera de Ingeniería de Sistemas e Ingeniería en Ciencias de la computacion</h3>
 
-- 🌱 Actualmente estoy Estudiando a profundidad **Ciencia de datos, Machine Learning.**
+- 🌱 Actualmente estoy Estudiando a profundidad **Ciencia de datos,Machine Learning y desarrolo de API Rest**
 
 - 📫 Como comunicarte conmigo **jhon.erick.ramirez.leanios@gmail.com**
 
